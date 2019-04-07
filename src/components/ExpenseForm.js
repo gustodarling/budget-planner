@@ -86,7 +86,7 @@ export default class ExpenseForm extends Component {
         >
         </textarea>
         <div>
-          <button className='button'>Edit Expense</button>
+          <button className='button'>Add Expense</button>
         </div>
       </form>
     )
